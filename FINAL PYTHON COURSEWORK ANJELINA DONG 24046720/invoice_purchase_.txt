@@ -1,0 +1,17 @@
+Purchase Invoice
+Customer Name: 
+Date: [Generated at time of transaction]
+---------------------------------
+Product: Vitamin C Serum
+Brand:  Garnier
+Quantity (including free): 6
+Unit Price: 2000.0
+Subtotal: 10000.0
+---------------------------------
+Product: Sunscreen
+Brand:  Aqualogica
+Quantity (including free): 26
+Unit Price: 1400.0
+Subtotal: 28000.0
+---------------------------------
+Total Amount: 38000.0

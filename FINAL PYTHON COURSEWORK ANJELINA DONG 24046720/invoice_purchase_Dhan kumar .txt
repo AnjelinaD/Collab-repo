@@ -1,0 +1,11 @@
+Purchase Invoice
+Customer Name: Dhan kumar 
+Date: [Generated at time of transaction]
+---------------------------------
+Product: Sunscreen
+Brand:  Aqualogica
+Quantity (including free): 106
+Unit Price: 2800.0
+Subtotal: 224000.0
+---------------------------------
+Total Amount: 224000.0

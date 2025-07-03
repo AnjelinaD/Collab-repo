@@ -1,0 +1,11 @@
+Restock Invoice
+Vendor Name: Anjelina
+Date: [Generated at time of transaction]
+---------------------------------
+Product: Vitamin C Serum   
+Brand: abc
+Quantity Restocked: 30
+Cost Price per Unit: 2000.0
+Subtotal: 60000.0
+---------------------------------
+Total Amount: 60000.0

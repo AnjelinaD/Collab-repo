@@ -1,0 +1,11 @@
+Restock Invoice
+Vendor Name: OKAY
+Date: [Generated at time of transaction]
+---------------------------------
+Product: Sunscreen
+Brand: abc
+Quantity Restocked: 6
+Cost Price per Unit: 1400.0
+Subtotal: 8400.0
+---------------------------------
+Total Amount: 8400.0
