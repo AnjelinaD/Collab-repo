@@ -1,11 +1,11 @@
-#  My Project Name
+#  Python
 
 This is a simple project I made to practice and learn.  
 
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - Python
 
