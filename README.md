@@ -1,6 +1,6 @@
 #  Python
 
-This is a simple project I made to practice and learn.  
+This is a simple project we made to practice and learn.  
 
 
 ---
