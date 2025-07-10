@@ -1,4 +1,4 @@
-# 🌟 My Project Name
+#  My Project Name
 
 This is a simple project I made to practice and learn.  
 
@@ -7,28 +7,26 @@ This is a simple project I made to practice and learn.
 
 ## 🛠️ Built With
 
-- HTML
-- CSS
-- JavaScript
+- Python
 
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download or clone the project  
 2. Open the folder  
-3. Open `main.html` in your browser
+3. Open `main.py` in your browser
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Made by [ojeswi/anjelina]  
 Email: ojeswip@example.com
 
 ---
 
-## ⭐ Thanks for Visiting!
+##  Thanks for Visiting!
 
-If you liked it, give it a ⭐ on GitHub!
+
